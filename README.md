@@ -32,3 +32,6 @@ Start Server(jangan lupa nyalain xampp ygy)
 ```
 php artisan serve
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Idkhowtoplay/PROJECT-UKK-PERSURATAN-AKZ&type=Date)](https://star-history.com/#Idkhowtoplay/PROJECT-UKK-PERSURATAN-AKZ&Date)
