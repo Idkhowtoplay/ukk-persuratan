@@ -25,6 +25,10 @@ Jalankan Perintah Berikut untuk menghubungkan folder public Anda dengan storage
 ```
 php artisan storage:link
 ```
+Taruh gambar ini di storage dan ubah namanya menjadi kop
+
+<a href="https://ibb.co.com/wzDs6DQ"><img src="https://i.ibb.co.com/gRsVgsW/kop.png" alt="kop" border="0"></a>
+
 Run Migration
 ```
 php artisan migrate
