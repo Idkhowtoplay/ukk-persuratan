@@ -8,8 +8,9 @@ WishMeLux
 
 ## Installation / Instalasi
 
-Jalankan perintah berikut untuk menginstal dependensi php
+Jalankan perintah berikut untuk menginstal dependensi php dan Composer
 ```
+composer install
 npm install; npm run dev
 ```
 Jalankan perintah berikut untuk mengubah .env.example menjadi .env
