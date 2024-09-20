@@ -103,9 +103,9 @@
                     <option value="SLTP/Sederajat">SLTP/Sederajat</option>
                     <option value="SLTA/Sederajat">SLTA/Sederajat</option>
                     <option value="Diploma">Diploma</option>
-                    <option value="StrataI">Strata I</option>
-                    <option value="StrataII">Strata II</option>
-                    <option value="StrataIII">Strata III</option>
+                    <option value="Strata I">Strata I</option>
+                    <option value="Strata II">Strata II</option>
+                    <option value="Strata III">Strata III</option>
                 </select>
             </div>
             <div class="form-group">
