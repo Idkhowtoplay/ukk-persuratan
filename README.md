@@ -10,12 +10,12 @@ WishMeLux
 
 - User
   - Admin
-    + Manajemen User (menghapus, mengedit dan menambahkan)
-    + Manajemen Surat (menghapus, mengedit, menambahkan, menyetujui/menolak surat dan print surat to pdf)
-    + Manajemen Jenis Surat (menghapus, mengedit dan menambahkan)
-    + Manajemen Kategori Surat (menghapus, mengedit dan menambahkan)
-    + Manajemen Penduduk (menghapus, mengedit, menambahkan dan melihat detail penduduk)
-    + Manajemen Pekerjaan (menghapus, mengedit dan menambahkan)
+    - Manajemen User (menghapus, mengedit dan menambahkan)
+    - Manajemen Surat (menghapus, mengedit, menambahkan, menyetujui/menolak surat dan print surat to pdf)
+    - Manajemen Jenis Surat (menghapus, mengedit dan menambahkan)
+    - Manajemen Kategori Surat (menghapus, mengedit dan menambahkan)
+    - Manajemen Penduduk (menghapus, mengedit, menambahkan dan melihat detail penduduk)
+    - Manajemen Pekerjaan (menghapus, mengedit dan menambahkan)
       
 - HomePage
   - Pengajuan Surat
