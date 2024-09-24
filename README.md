@@ -25,7 +25,7 @@ WishMeLux
 <a href="https://ibb.co.com/4dGPyhR"><img src="https://i.ibb.co.com/tXt8fVp/Untitled-2.png" alt="Untitled-2" border="0"></a>
 
 ## UML Diagram Use Case
-<a href="https://ibb.co.com/nRMrwnw"><img src="https://i.ibb.co.com/cxhJyCy/yo-drawio.png" alt="yo-drawio" border="0"></a>
+![alt text](https://raw.githubusercontent.com/Idkhowtoplay/ukk-persuratan/refs/heads/main/yo.drawio.png)
 
 ## Teknologi Yang Digunakan
 - Laravel 9
