@@ -7,7 +7,6 @@ WishMeLux
 - Authentication
   - Login
   - Register
-
 - User
   - Admin
     - Manajemen User (menghapus, mengedit dan menambahkan)
@@ -16,7 +15,6 @@ WishMeLux
     - Manajemen Kategori Surat (menghapus, mengedit dan menambahkan)
     - Manajemen Penduduk (menghapus, mengedit, menambahkan dan melihat detail penduduk)
     - Manajemen Pekerjaan (menghapus, mengedit dan menambahkan)
-      
 - HomePage
   - Pengajuan Surat
   - Pengecekan Surat
