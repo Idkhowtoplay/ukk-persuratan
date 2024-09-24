@@ -3,8 +3,38 @@
 ## UKK Surat Menyurat
 WishMeLux
 
+## Fitur Yang Tersedia
+- Authentication
+  - Login
+  - Register
+
+- User
+  - Admin
+    + Manajemen User (menghapus, mengedit dan menambahkan)
+    + Manajemen Surat (menghapus, mengedit, menambahkan, menyetujui/menolak surat dan print surat to pdf)
+    + Manajemen Jenis Surat (menghapus, mengedit dan menambahkan)
+    + Manajemen Kategori Surat (menghapus, mengedit dan menambahkan)
+    + Manajemen Penduduk (menghapus, mengedit, menambahkan dan melihat detail penduduk)
+    + Manajemen Pekerjaan (menghapus, mengedit dan menambahkan)
+      
+- HomePage
+  - Pengajuan Surat
+  - Pengecekan Surat
+ 
 ## Database Schema / Skema Database
 <a href="https://ibb.co.com/4dGPyhR"><img src="https://i.ibb.co.com/tXt8fVp/Untitled-2.png" alt="Untitled-2" border="0"></a>
+
+## UML Diagram Use Case
+<a href="https://ibb.co.com/nRMrwnw"><img src="https://i.ibb.co.com/cxhJyCy/yo-drawio.png" alt="yo-drawio" border="0"></a>
+
+## Teknologi Yang Digunakan
+- Laravel 9
+- Bootstrap 5
+
+## Persyaratan Untuk Melakukan Instalasi
+- PHP 8 & Web Server (Apache)
+- Database (MariaDB)
+- Web Browser (Chrome)
 
 ## Installation / Instalasi
 
