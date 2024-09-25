@@ -28,6 +28,7 @@ Bissmilah
 ## Teknologi Yang Digunakan
 - Laravel 9
 - Bootstrap 5
+- DataTables
 
 ## Persyaratan Untuk Melakukan Instalasi
 - PHP 8 & Web Server (Apache)
