@@ -76,4 +76,4 @@ php artisan serve
  </picture>
 </a>
 
-ukk persuratan dibuat oleh [idkhowtoplay](https://github.com/Idkhowtoplay) (muhamad akbar zainuri)
+**ukk persuratan dibuat oleh [idkhowtoplay](https://github.com/Idkhowtoplay) (muhamad akbar zainuri)**
