@@ -26,9 +26,9 @@ Bissmilah
 ![alt text](https://raw.githubusercontent.com/Idkhowtoplay/ukk-persuratan/refs/heads/main/yo.drawio.png)
 
 ## Teknologi Yang Digunakan
-- Laravel 9
-- Bootstrap 5
-- DataTables
+- [Laravel 9](https://laravel.com/docs/9.x/releases)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [DataTables](https://datatables.net/)
 
 ## Persyaratan Untuk Melakukan Instalasi
 - PHP 8.2.12 & Web Server (Apache)
@@ -76,4 +76,4 @@ php artisan serve
  </picture>
 </a>
 
-# ukk persuratan dibuat oleh idkhowtoplay(Muhamad Akbar Zainuri)
+# ukk persuratan dibuat oleh [idkhowtoplay](https://github.com/Idkhowtoplay) (muhamad akbar zainuri)
