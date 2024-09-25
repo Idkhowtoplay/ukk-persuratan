@@ -31,7 +31,7 @@ Bissmilah
 - DataTables
 
 ## Persyaratan Untuk Melakukan Instalasi
-- PHP 8 & Web Server (Apache)
+- PHP 8.2.12 & Web Server (Apache)
 - Database (MariaDB)
 - Web Browser (Chrome)
 
