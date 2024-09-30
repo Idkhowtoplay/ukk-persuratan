@@ -68,6 +68,6 @@ php artisan serve
 ```
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Idkhowtoplay/PROJECT-UKK-PERSURATAN-AKZ&type=Date)](https://star-history.com/#Idkhowtoplay/PROJECT-UKK-PERSURATAN-AKZ&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Idkhowtoplay/ukk-persuratan&type=Date)](https://star-history.com/#Idkhowtoplay/ukk-persuratan&Date)
 
 **ukk persuratan dibuat oleh [idkhowtoplay](https://github.com/Idkhowtoplay) (muhamad akbar zainuri)**
